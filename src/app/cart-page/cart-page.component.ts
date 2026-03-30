@@ -7,11 +7,10 @@ import { RouterModule } from '@angular/router';
 import { NotFoundComponent } from "../not-found/not-found.component";
 
 @Component({
-  selector: 'app-cart-page',
-  standalone: true,
-  imports: [CommonModule, RouterModule, NotFoundComponent],
-  templateUrl: './cart-page.component.html',
-  styleUrl: './cart-page.component.css'
+    selector: 'app-cart-page',
+    imports: [CommonModule, RouterModule, NotFoundComponent],
+    templateUrl: './cart-page.component.html',
+    styleUrl: './cart-page.component.css'
 })
 export class CartPageComponent implements OnInit{
 

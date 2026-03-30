@@ -5,11 +5,10 @@ import { FoodService } from '../services/food/food.service';
 import { RouterLink } from '@angular/router';
 
 @Component({
-  selector: 'app-tags',
-  standalone: true,
-  imports: [CommonModule, RouterLink],
-  templateUrl: './tags.component.html',
-  styleUrl: './tags.component.css'
+    selector: 'app-tags',
+    imports: [CommonModule, RouterLink],
+    templateUrl: './tags.component.html',
+    styleUrl: './tags.component.css'
 })
 export class TagsComponent implements OnInit{
 

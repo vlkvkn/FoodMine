@@ -10,11 +10,10 @@ import { RouterLink } from '@angular/router';
 import { NotFoundComponent } from "../not-found/not-found.component";
 
 @Component({
-  selector: 'app-home',
-  standalone: true,
-  imports: [NgFor, CommonModule, SearchComponent, TagsComponent, RouterLink, NotFoundComponent],
-  templateUrl: './home.component.html',
-  styleUrl: './home.component.css'
+    selector: 'app-home',
+    imports: [NgFor, CommonModule, SearchComponent, TagsComponent, RouterLink, NotFoundComponent],
+    templateUrl: './home.component.html',
+    styleUrl: './home.component.css'
 })
 export class HomeComponent implements OnInit{
 
