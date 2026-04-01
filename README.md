@@ -24,7 +24,7 @@ Access the application at http://localhost:4200.
 We welcome contributions! Please feel free to fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/shubham-pawar/FoodMine/blob/main/LICENSE).
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 Enjoy exploring and happy eating! 🍕🥗🍰
 
