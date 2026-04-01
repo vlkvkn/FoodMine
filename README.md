@@ -28,7 +28,7 @@ This project is licensed under the [MIT License](https://github.com/shubham-pawa
 
 Enjoy exploring and happy eating! 🍕🥗🍰
 
-## Delicious Food
+## Enjoy exploring and happy eating! 🍕🥗🍰
 
 ### Home Page
 
