@@ -1,10 +1,10 @@
 # Food Mine
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 21.2.x.
 
 ## Welcome to the Food Mine Project! 🍽️
 
-This is a dynamic web application built with Angular 18, designed to enhance your culinary experience. Our platform allows users to explore a wide variety of delicious foods, conveniently search for their favorites, and manage a shopping cart for easy ordering.
+This is a dynamic web application built with Angular 21, designed to enhance your culinary experience. Our platform allows users to explore a wide variety of delicious foods, conveniently search for their favorites, and manage a shopping cart for easy ordering.
 
 ## Features
 - Search Functionality: Quickly find your desired food items with our intuitive search feature.
