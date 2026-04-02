@@ -1,13 +1,18 @@
 # Food Mine
-![Issues](https://img.shields.io/github/issues/shubham-pawar/FoodMine)
-![Forks](https://img.shields.io/github/forks/shubham-pawar/FoodMine)
-![PRs](https://img.shields.io/github/issues-pr/shubham-pawar/FoodMine)
+<!-- Project Info -->
 ![Build](https://img.shields.io/github/actions/workflow/status/shubham-pawar/FoodMine/main.yml)
 [![Angular](https://img.shields.io/badge/Angular-21-red)](https://angular.io/)
 [![License](https://img.shields.io/github/license/shubham-pawar/FoodMine)](https://github.com/shubham-pawar/FoodMine/blob/main/LICENSE)
-[![Repo Size](https://img.shields.io/github/repo-size/shubham-pawar/FoodMine)](https://github.com/shubham-pawar/FoodMine)
+
+<!-- Community Metrics -->
+![Stars](https://img.shields.io/github/stars/shubham-pawar/FoodMine?style=social)
+![Forks](https://img.shields.io/github/forks/shubham-pawar/FoodMine)
+![Issues](https://img.shields.io/github/issues/shubham-pawar/FoodMine)
+![PRs](https://img.shields.io/github/issues-pr/shubham-pawar/FoodMine)
+
+<!-- Repo Metadata -->
 [![Last Commit](https://img.shields.io/github/last-commit/shubham-pawar/FoodMine)](https://github.com/shubham-pawar/FoodMine/commits)
-[![Stars](https://img.shields.io/github/stars/shubham-pawar/FoodMine?style=social)](https://github.com/shubham-pawar/FoodMine/stargazers)
+[![Repo Size](https://img.shields.io/github/repo-size/shubham-pawar/FoodMine)](https://github.com/shubham-pawar/FoodMine)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 21.2.x.
 
