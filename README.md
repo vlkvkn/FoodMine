@@ -1,4 +1,12 @@
-# Food Mine
+## Welcome to the FoodMine! 🍽️
+
+> 🚀 A modern Angular food ordering UI with powerful search, an intuitive cart, and a fully responsive design.
+
+FoodMine is a dynamic web application designed to enhance your culinary experience. It allows users to explore a wide variety of delicious foods, quickly find their favorites with an intuitive search feature, and manage a shopping cart for a seamless ordering experience.
+
+
+
+<!-- Badges -->
 <!-- Project Info -->
 ![Build](https://img.shields.io/github/actions/workflow/status/shubham-pawar/FoodMine/main.yml)
 [![Angular](https://img.shields.io/badge/Angular-21-red)](https://angular.io/)
@@ -14,46 +22,110 @@
 [![Last Commit](https://img.shields.io/github/last-commit/shubham-pawar/FoodMine)](https://github.com/shubham-pawar/FoodMine/commits)
 [![Repo Size](https://img.shields.io/github/repo-size/shubham-pawar/FoodMine)](https://github.com/shubham-pawar/FoodMine)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 21.2.x.
-
-## Welcome to the Food Mine Project! 🍽️
-
-This is a dynamic web application built with Angular 21, designed to enhance your culinary experience. Our platform allows users to explore a wide variety of delicious foods, conveniently search for their favorites, and manage a shopping cart for easy ordering.
+---
 
 ## Features
-- Search Functionality: Quickly find your desired food items with our intuitive search feature.
-- Shopping Cart: Add and manage items effortlessly for a streamlined ordering experience.
-- Food Images: Browse through vibrant images to get a taste of what you’re ordering.
+- 🔍 **Smart Search** – Instantly find food items  
+- 🛒 **Shopping Cart** – Add, remove, and manage orders  
+- 🖼️ **Rich UI** – Clean, responsive, and image-driven design  
+- ⚡ **Performance Focused** – Built using Angular 21 best practices
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
+</p>
+
+- Angular 21
+- TypeScript
+- HTML5 & CSS3
+
+---
+
 
 ## Getting Started
-To set up the project locally, clone the repository and run the following commands:
+
 ```
+# Clone the repository
+git clone https://github.com/shubham-pawar/FoodMine.git
+
+# Navigate into the project folder
+cd FoodMine
+
+# Install dependencies
 npm install
+
+# Start the development server
 ng serve
 ```
+🌐 Open your browser and go to: http://localhost:4200
 
-Access the application at http://localhost:4200.
+---
+
+## Project Structure
+```
+src/
+├── app/                # Main application components, modules, services
+├── index.html          # Root HTML file
+├── main.ts             # Client-side entry point
+├── main.server.ts      # Server-side entry point (SSR)
+├── styles.css          # Global styles
+```
+
+---
+
+## Screenshots
+
+### 🏠 Home Page
+
+<img width="946" alt="home" src="https://github.com/user-attachments/assets/0dcd87d0-9d62-455b-9198-c05b69a1603b">
+
+### 🍔 Food View
+
+<img width="683" alt="food view" src="https://github.com/user-attachments/assets/2aab09f3-704d-480d-9c96-3975f9d58e03">
+
+### 🛒 Cart
+
+<img width="952" alt="cart" src="https://github.com/user-attachments/assets/7ddd83cc-821b-42e9-b2b6-2debf1fb02ab">
+
+---
 
 ## Contributing
-We welcome contributions! Please feel free to fork the repository and submit a pull request.
+Contributions are welcome! 🎉
+
+If you’d like to contribute, please check out our detailed guidelines here: 📄 [CONTRIBUTING.md](https://github.com/shubham-pawar/FoodMine/blob/main/CONTRIBUTING.md)
+
+### Quick Steps
+```
+# Fork the repository
+# Create your feature branch
+git checkout -b feature/awesome-feature
+
+# Commit your changes
+git commit -m "feat: add awesome feature"
+
+# Push to your branch
+git push origin feature/awesome-feature
+```
+Then, open a Pull Request.
+
+---
 
 ## License
 This project is licensed under the [Apache License 2.0](LICENSE).
 
+---
+
 ## Code of Conduct
 Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our standards for contributing to this project.
 
-## Enjoy exploring and happy eating! 🍕🥗🍰
+---
 
-### Home Page
+### ⭐ Show Your Support
+If you like this project, give it a ⭐ on GitHub!
 
-<img width="946" alt="home" src="https://github.com/user-attachments/assets/0dcd87d0-9d62-455b-9198-c05b69a1603b">
+---
 
-### Food View
-
-<img width="683" alt="food view" src="https://github.com/user-attachments/assets/2aab09f3-704d-480d-9c96-3975f9d58e03">
-
-### Cart
-
-<img width="952" alt="cart" src="https://github.com/user-attachments/assets/7ddd83cc-821b-42e9-b2b6-2debf1fb02ab">
-
+<p align="center"> Made with ❤️ using Angular </p>
